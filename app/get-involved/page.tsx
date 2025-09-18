@@ -419,7 +419,7 @@ export default function GetInvolvedPage() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-border text-center">
-            <p className="text-muted-foreground">© 2024 BOKA EATS. All rights reserved.</p>
+            <p className="text-muted-foreground">© 20245 BOKA EATS. All rights reserved.</p>
           </div>
         </div>
       </footer>

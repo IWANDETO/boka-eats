@@ -96,7 +96,7 @@ export default function WhatWeDoPage() {
                 <Card className="bg-card border-border hover:shadow-lg transition-shadow">
                   <CardContent className="p-6 text-center">
                     <div className="w-20 h-20 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <img src="/banana-crisps-snack.png" alt="Banana Crisps" className="w-10 h-10" />
+                      <img src="/crisps.jpg" alt="Banana Crisps" className="w-10 h-10" />
                     </div>
                     <h3 className="text-xl font-semibold text-foreground mb-2">Banana Crisps</h3>
                     <p className="text-muted-foreground">
@@ -108,7 +108,7 @@ export default function WhatWeDoPage() {
                 <Card className="bg-card border-border hover:shadow-lg transition-shadow">
                   <CardContent className="p-6 text-center">
                     <div className="w-20 h-20 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <img src="/banana-cookies.png" alt="Banana Cookies" className="w-10 h-10" />
+                      <img src="/cookies.jpeg" alt="Banana Cookies" className="w-10 h-10" />
                     </div>
                     <h3 className="text-xl font-semibold text-foreground mb-2">Banana Cookies</h3>
                     <p className="text-muted-foreground">
@@ -120,7 +120,7 @@ export default function WhatWeDoPage() {
                 <Card className="bg-card border-border hover:shadow-lg transition-shadow">
                   <CardContent className="p-6 text-center">
                     <div className="w-20 h-20 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <img src="/banana-flour-powder.png" alt="Banana Flour" className="w-10 h-10" />
+                      <img src="/flour.jpeg" alt="Banana Flour" className="w-10 h-10" />
                     </div>
                     <h3 className="text-xl font-semibold text-foreground mb-2">Banana Flour</h3>
                     <p className="text-muted-foreground">
@@ -326,7 +326,7 @@ export default function WhatWeDoPage() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-border text-center">
-            <p className="text-muted-foreground">© 2024 BOKA EATS. All rights reserved.</p>
+            <p className="text-muted-foreground">© 2025 BOKA EATS. All rights reserved.</p>
           </div>
         </div>
       </footer>
